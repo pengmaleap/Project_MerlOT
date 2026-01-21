@@ -1,0 +1,1339 @@
+[
+  {
+    "id": 1,
+    "title": "Stranger Things",
+    "year": "2016 - Current",
+    "type": "TV SERIES",
+    "rating": "86.0 / 100",
+    "rotten": "97%",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "image": "https://cdn.europosters.eu/image/750/132237.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Batman v Superman",
+    "year": "2016",
+    "type": "MOVIE",
+    "rating": "78.0 / 100",
+    "rotten": "88%",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqiHzk_r8AqhPUgwpcO0Dt9UVCahUJ3QWRg&s"
+  },
+  {
+    "id": 3,
+    "title": "Spider-Man: No Way Home",
+    "year": "2021",
+    "type": "MOVIE",
+    "rating": "91.0 / 100",
+    "rotten": "93%",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/I/9153rl7bGqL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Dune: Part Two",
+    "year": "2024",
+    "type": "MOVIE",
+    "rating": "89.0 / 100",
+    "rotten": "92%",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Dune_%282021_film%29.jpg/250px-Dune_%282021_film%29.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Last of Us",
+    "year": "2023 - Current",
+    "type": "TV SERIES",
+    "rating": "88.0 / 100",
+    "rotten": "96%",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Oppenheimer",
+    "year": "2023",
+    "type": "MOVIE",
+    "rating": "84.0 / 100",
+    "rotten": "93%",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Dark Knight",
+    "year": "2008",
+    "type": "MOVIE",
+    "rating": "90.0 / 100",
+    "rotten": "94%",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStSrkl4OLvST4y_f-fz56oL5olr-DCvJ2cWQ&s"
+  },
+  {
+    "id": 8,
+    "title": "The Boys",
+    "year": "2019 - Current",
+    "type": "TV SERIES",
+    "rating": "87.0 / 100",
+    "rotten": "98%",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "image": "https://images.moviesanywhere.com/c3d92cf4e084ea2a46a1d4b24f06d8e1/ede5fa03-1283-4ebe-98c8-486a30ae2bac.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Hollow Crown",
+    "year": "1983",
+    "type": "MOVIE",
+    "rating": "75.0 / 100",
+    "rotten": "91%",
+    "genres": [
+      "Drama",
+      "Biography"
+    ],
+    "image": "https://placehold.co/300x450?text=Hollow+Crown"
+  },
+  {
+    "id": 10,
+    "title": "Frozen Harbor",
+    "year": "2019",
+    "type": "MOVIE",
+    "rating": "88.0 / 100",
+    "rotten": "89%",
+    "genres": [
+      "Comedy",
+      "History"
+    ],
+    "image": "https://placehold.co/300x450?text=Frozen+Harbor"
+  },
+  {
+    "id": 11,
+    "title": "Crimson Glass",
+    "year": "1994",
+    "type": "TV SERIES",
+    "rating": "80.0 / 100",
+    "rotten": "95%",
+    "genres": [
+      "Thriller",
+      "Fantasy"
+    ],
+    "image": "https://placehold.co/300x450?text=Crimson+Glass"
+  },
+  {
+    "id": 12,
+    "title": "Silent Legacy",
+    "year": "2009",
+    "type": "MOVIE",
+    "rating": "75.0 / 100",
+    "rotten": "72%",
+    "genres": [
+      "History",
+      "Sci-Fi"
+    ],
+    "image": "https://placehold.co/300x450?text=Silent+Legacy"
+  },
+  {
+    "id": 13,
+    "title": "Shaded Signal",
+    "year": "2004",
+    "type": "TV SERIES",
+    "rating": "89.0 / 100",
+    "rotten": "73%",
+    "genres": [
+      "Biography",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Shaded+Signal"
+  },
+  {
+    "id": 14,
+    "title": "Shaded Harbor",
+    "year": "2017",
+    "type": "TV SERIES",
+    "rating": "73.0 / 100",
+    "rotten": "91%",
+    "genres": [
+      "Comedy",
+      "Biography",
+      "Adventure"
+    ],
+    "image": "https://placehold.co/300x450?text=Shaded+Harbor"
+  },
+  {
+    "id": 15,
+    "title": "Bright Island",
+    "year": "1987",
+    "type": "MOVIE",
+    "rating": "92.0 / 100",
+    "rotten": "96%",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Bright+Island"
+  },
+  {
+    "id": 16,
+    "title": "Scarlet Legacy",
+    "year": "2005",
+    "type": "TV SERIES",
+    "rating": "91.0 / 100",
+    "rotten": "90%",
+    "genres": [
+      "Mystery",
+      "History",
+      "Adventure"
+    ],
+    "image": "https://placehold.co/300x450?text=Scarlet+Legacy"
+  },
+  {
+    "id": 17,
+    "title": "Silver Spire",
+    "year": "1997 - Current",
+    "type": "TV SERIES",
+    "rating": "94.0 / 100",
+    "rotten": "87%",
+    "genres": [
+      "Crime",
+      "Mystery"
+    ],
+    "image": "https://placehold.co/300x450?text=Silver+Spire"
+  },
+  {
+    "id": 18,
+    "title": "Bright City",
+    "year": "1985 - Current",
+    "type": "TV SERIES",
+    "rating": "84.0 / 100",
+    "rotten": "78%",
+    "genres": [
+      "History",
+      "Sci-Fi"
+    ],
+    "image": "https://placehold.co/300x450?text=Bright+City"
+  },
+  {
+    "id": 19,
+    "title": "Last Mirage",
+    "year": "2018",
+    "type": "TV SERIES",
+    "rating": "84.0 / 100",
+    "rotten": "98%",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Last+Mirage"
+  },
+  {
+    "id": 20,
+    "title": "Rapid Pulse",
+    "year": "1998 - Current",
+    "type": "TV SERIES",
+    "rating": "90.0 / 100",
+    "rotten": "83%",
+    "genres": [
+      "Romance",
+      "History",
+      "Crime"
+    ],
+    "image": "https://placehold.co/300x450?text=Rapid+Pulse"
+  },
+  {
+    "id": 21,
+    "title": "Icy Sky",
+    "year": "2005 - Current",
+    "type": "TV SERIES",
+    "rating": "74.0 / 100",
+    "rotten": "94%",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Icy+Sky"
+  },
+  {
+    "id": 22,
+    "title": "Hidden Crown",
+    "year": "1991",
+    "type": "TV SERIES",
+    "rating": "91.0 / 100",
+    "rotten": "84%",
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Biography"
+    ],
+    "image": "https://placehold.co/300x450?text=Hidden+Crown"
+  },
+  {
+    "id": 23,
+    "title": "Rust Strike",
+    "year": "2017",
+    "type": "MOVIE",
+    "rating": "89.0 / 100",
+    "rotten": "94%",
+    "genres": [
+      "Biography",
+      "Adventure",
+      "Mystery"
+    ],
+    "image": "https://placehold.co/300x450?text=Rust+Strike"
+  },
+  {
+    "id": 24,
+    "title": "Iron Lake",
+    "year": "1989",
+    "type": "MOVIE",
+    "rating": "80.0 / 100",
+    "rotten": "86%",
+    "genres": [
+      "Action",
+      "Biography"
+    ],
+    "image": "https://placehold.co/300x450?text=Iron+Lake"
+  },
+  {
+    "id": 25,
+    "title": "Rogue Tide",
+    "year": "1988",
+    "type": "TV SERIES",
+    "rating": "76.0 / 100",
+    "rotten": "81%",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Comedy"
+    ],
+    "image": "https://placehold.co/300x450?text=Rogue+Tide"
+  },
+  {
+    "id": 26,
+    "title": "Silver Spire",
+    "year": "2015",
+    "type": "TV SERIES",
+    "rating": "83.0 / 100",
+    "rotten": "98%",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://placehold.co/300x450?text=Silver+Spire"
+  },
+  {
+    "id": 27,
+    "title": "Burning Line",
+    "year": "1985 - Current",
+    "type": "TV SERIES",
+    "rating": "74.0 / 100",
+    "rotten": "94%",
+    "genres": [
+      "Adventure",
+      "History",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Burning+Line"
+  },
+  {
+    "id": 28,
+    "title": "Frozen Frontier",
+    "year": "1990",
+    "type": "MOVIE",
+    "rating": "85.0 / 100",
+    "rotten": "76%",
+    "genres": [
+      "Romance",
+      "Fantasy"
+    ],
+    "image": "https://placehold.co/300x450?text=Frozen+Frontier"
+  },
+  {
+    "id": 29,
+    "title": "Frozen Summit",
+    "year": "2001",
+    "type": "TV SERIES",
+    "rating": "75.0 / 100",
+    "rotten": "77%",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Frozen+Summit"
+  },
+  {
+    "id": 30,
+    "title": "Bright Ridge",
+    "year": "2003 - Current",
+    "type": "TV SERIES",
+    "rating": "72.0 / 100",
+    "rotten": "72%",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "History"
+    ],
+    "image": "https://placehold.co/300x450?text=Bright+Ridge"
+  },
+  {
+    "id": 31,
+    "title": "Hollow Voyage",
+    "year": "1996 - Current",
+    "type": "TV SERIES",
+    "rating": "88.0 / 100",
+    "rotten": "77%",
+    "genres": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "image": "https://placehold.co/300x450?text=Hollow+Voyage"
+  },
+  {
+    "id": 32,
+    "title": "Iron Bridge",
+    "year": "1995",
+    "type": "TV SERIES",
+    "rating": "85.0 / 100",
+    "rotten": "76%",
+    "genres": [
+      "History",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Iron+Bridge"
+  },
+  {
+    "id": 33,
+    "title": "Broken Signal",
+    "year": "2024",
+    "type": "TV SERIES",
+    "rating": "73.0 / 100",
+    "rotten": "91%",
+    "genres": [
+      "Thriller",
+      "Biography"
+    ],
+    "image": "https://placehold.co/300x450?text=Broken+Signal"
+  },
+  {
+    "id": 34,
+    "title": "Broken Voyage",
+    "year": "2007",
+    "type": "MOVIE",
+    "rating": "89.0 / 100",
+    "rotten": "84%",
+    "genres": [
+      "Comedy",
+      "History"
+    ],
+    "image": "https://placehold.co/300x450?text=Broken+Voyage"
+  },
+  {
+    "id": 35,
+    "title": "Midnight Chamber",
+    "year": "1993",
+    "type": "MOVIE",
+    "rating": "75.0 / 100",
+    "rotten": "71%",
+    "genres": [
+      "Thriller",
+      "Romance"
+    ],
+    "image": "https://placehold.co/300x450?text=Midnight+Chamber"
+  },
+  {
+    "id": 36,
+    "title": "Frozen Horizon",
+    "year": "1987",
+    "type": "MOVIE",
+    "rating": "87.0 / 100",
+    "rotten": "76%",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Frozen+Horizon"
+  },
+  {
+    "id": 37,
+    "title": "Electric Voyage",
+    "year": "1992",
+    "type": "TV SERIES",
+    "rating": "81.0 / 100",
+    "rotten": "83%",
+    "genres": [
+      "History",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Electric+Voyage"
+  },
+  {
+    "id": 38,
+    "title": "Dark Bridge",
+    "year": "1991 - Current",
+    "type": "TV SERIES",
+    "rating": "89.0 / 100",
+    "rotten": "71%",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "image": "https://placehold.co/300x450?text=Dark+Bridge"
+  },
+  {
+    "id": 39,
+    "title": "Echo Voyage",
+    "year": "1985",
+    "type": "MOVIE",
+    "rating": "77.0 / 100",
+    "rotten": "72%",
+    "genres": [
+      "Romance",
+      "Adventure"
+    ],
+    "image": "https://placehold.co/300x450?text=Echo+Voyage"
+  },
+  {
+    "id": 40,
+    "title": "Deep Ridge",
+    "year": "1997",
+    "type": "MOVIE",
+    "rating": "74.0 / 100",
+    "rotten": "83%",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "History"
+    ],
+    "image": "https://placehold.co/300x450?text=Deep+Ridge"
+  },
+  {
+    "id": 41,
+    "title": "Icy Circle",
+    "year": "2015",
+    "type": "TV SERIES",
+    "rating": "82.0 / 100",
+    "rotten": "77%",
+    "genres": [
+      "Mystery",
+      "Biography"
+    ],
+    "image": "https://placehold.co/300x450?text=Icy+Circle"
+  },
+  {
+    "id": 42,
+    "title": "Emerald Sky",
+    "year": "1990",
+    "type": "TV SERIES",
+    "rating": "72.0 / 100",
+    "rotten": "84%",
+    "genres": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "image": "https://placehold.co/300x450?text=Emerald+Sky"
+  },
+  {
+    "id": 43,
+    "title": "Vivid Circle",
+    "year": "1988 - Current",
+    "type": "TV SERIES",
+    "rating": "76.0 / 100",
+    "rotten": "99%",
+    "genres": [
+      "Romance",
+      "Crime"
+    ],
+    "image": "https://placehold.co/300x450?text=Vivid+Circle"
+  },
+  {
+    "id": 44,
+    "title": "Storm Ridge",
+    "year": "1997",
+    "type": "MOVIE",
+    "rating": "81.0 / 100",
+    "rotten": "89%",
+    "genres": [
+      "Romance",
+      "Biography"
+    ],
+    "image": "https://placehold.co/300x450?text=Storm+Ridge"
+  },
+  {
+    "id": 45,
+    "title": "Rust Horizon",
+    "year": "2024",
+    "type": "TV SERIES",
+    "rating": "75.0 / 100",
+    "rotten": "98%",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Crime"
+    ],
+    "image": "https://placehold.co/300x450?text=Rust+Horizon"
+  },
+  {
+    "id": 46,
+    "title": "Broken Glass",
+    "year": "1991",
+    "type": "MOVIE",
+    "rating": "92.0 / 100",
+    "rotten": "97%",
+    "genres": [
+      "Sci-Fi",
+      "Comedy",
+      "Mystery"
+    ],
+    "image": "https://placehold.co/300x450?text=Broken+Glass"
+  },
+  {
+    "id": 47,
+    "title": "Emerald Tide",
+    "year": "2013",
+    "type": "MOVIE",
+    "rating": "80.0 / 100",
+    "rotten": "71%",
+    "genres": [
+      "Mystery",
+      "Horror"
+    ],
+    "image": "https://placehold.co/300x450?text=Emerald+Tide"
+  },
+  {
+    "id": 48,
+    "title": "Silent Lake",
+    "year": "1990",
+    "type": "TV SERIES",
+    "rating": "89.0 / 100",
+    "rotten": "92%",
+    "genres": [
+      "Biography",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Silent+Lake"
+  },
+  {
+    "id": 49,
+    "title": "Noble Glass",
+    "year": "1982 - Current",
+    "type": "TV SERIES",
+    "rating": "83.0 / 100",
+    "rotten": "88%",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Action"
+    ],
+    "image": "https://placehold.co/300x450?text=Noble+Glass"
+  },
+  {
+    "id": 50,
+    "title": "Dark Pulse",
+    "year": "2009 - Current",
+    "type": "TV SERIES",
+    "rating": "83.0 / 100",
+    "rotten": "76%",
+    "genres": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "image": "https://placehold.co/300x450?text=Dark+Pulse"
+  },
+  {
+    "id": 51,
+    "title": "Cold Signal",
+    "year": "2004",
+    "type": "TV SERIES",
+    "rating": "77.0 / 100",
+    "rotten": "95%",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Comedy"
+    ],
+    "image": "https://placehold.co/300x450?text=Cold+Signal"
+  },
+  {
+    "id": 52,
+    "title": "Rogue River",
+    "year": "1983 - Current",
+    "type": "TV SERIES",
+    "rating": "93.0 / 100",
+    "rotten": "97%",
+    "genres": [
+      "History",
+      "Horror"
+    ],
+    "image": "https://placehold.co/300x450?text=Rogue+River"
+  },
+  {
+    "id": 53,
+    "title": "Cold Valley",
+    "year": "1992",
+    "type": "MOVIE",
+    "rating": "79.0 / 100",
+    "rotten": "76%",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Cold+Valley"
+  },
+  {
+    "id": 54,
+    "title": "Rapid Rift",
+    "year": "2001",
+    "type": "MOVIE",
+    "rating": "78.0 / 100",
+    "rotten": "82%",
+    "genres": [
+      "Action",
+      "Mystery"
+    ],
+    "image": "https://placehold.co/300x450?text=Rapid+Rift"
+  },
+  {
+    "id": 55,
+    "title": "Crystal Valley",
+    "year": "1986",
+    "type": "TV SERIES",
+    "rating": "84.0 / 100",
+    "rotten": "91%",
+    "genres": [
+      "Mystery",
+      "Romance"
+    ],
+    "image": "https://placehold.co/300x450?text=Crystal+Valley"
+  },
+  {
+    "id": 56,
+    "title": "Frozen Lake",
+    "year": "1983 - Current",
+    "type": "TV SERIES",
+    "rating": "80.0 / 100",
+    "rotten": "71%",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "image": "https://placehold.co/300x450?text=Frozen+Lake"
+  },
+  {
+    "id": 57,
+    "title": "Broken Night",
+    "year": "2009",
+    "type": "TV SERIES",
+    "rating": "75.0 / 100",
+    "rotten": "82%",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "image": "https://placehold.co/300x450?text=Broken+Night"
+  },
+  {
+    "id": 58,
+    "title": "Glowing Summit",
+    "year": "1998 - Current",
+    "type": "TV SERIES",
+    "rating": "89.0 / 100",
+    "rotten": "91%",
+    "genres": [
+      "Action",
+      "Romance"
+    ],
+    "image": "https://placehold.co/300x450?text=Glowing+Summit"
+  },
+  {
+    "id": 59,
+    "title": "Ancient Orbit",
+    "year": "2009 - Current",
+    "type": "TV SERIES",
+    "rating": "93.0 / 100",
+    "rotten": "97%",
+    "genres": [
+      "Sci-Fi",
+      "Fantasy",
+      "History"
+    ],
+    "image": "https://placehold.co/300x450?text=Ancient+Orbit"
+  },
+  {
+    "id": 60,
+    "title": "Fallen Gate",
+    "year": "2014",
+    "type": "TV SERIES",
+    "rating": "81.0 / 100",
+    "rotten": "87%",
+    "genres": [
+      "Horror",
+      "Biography"
+    ],
+    "image": "https://placehold.co/300x450?text=Fallen+Gate"
+  },
+  {
+    "id": 61,
+    "title": "Midnight Summit",
+    "year": "2008",
+    "type": "TV SERIES",
+    "rating": "90.0 / 100",
+    "rotten": "79%",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Fantasy"
+    ],
+    "image": "https://placehold.co/300x450?text=Midnight+Summit"
+  },
+  {
+    "id": 62,
+    "title": "Electric Glass",
+    "year": "1982",
+    "type": "MOVIE",
+    "rating": "91.0 / 100",
+    "rotten": "90%",
+    "genres": [
+      "History",
+      "Fantasy"
+    ],
+    "image": "https://placehold.co/300x450?text=Electric+Glass"
+  },
+  {
+    "id": 63,
+    "title": "Echo Beacon",
+    "year": "2010",
+    "type": "MOVIE",
+    "rating": "93.0 / 100",
+    "rotten": "72%",
+    "genres": [
+      "Thriller",
+      "Biography",
+      "Drama"
+    ],
+    "image": "https://placehold.co/300x450?text=Echo+Beacon"
+  },
+  {
+    "id": 64,
+    "title": "Lunar Tide",
+    "year": "2024",
+    "type": "TV SERIES",
+    "rating": "93.0 / 100",
+    "rotten": "79%",
+    "genres": [
+      "History",
+      "Comedy"
+    ],
+    "image": "https://placehold.co/300x450?text=Lunar+Tide"
+  },
+  {
+    "id": 65,
+    "title": "Bright Summit",
+    "year": "1991 - Current",
+    "type": "TV SERIES",
+    "rating": "74.0 / 100",
+    "rotten": "84%",
+    "genres": [
+      "Thriller",
+      "Fantasy"
+    ],
+    "image": "https://placehold.co/300x450?text=Bright+Summit"
+  },
+  {
+    "id": 66,
+    "title": "Lost Code",
+    "year": "2018 - Current",
+    "type": "TV SERIES",
+    "rating": "79.0 / 100",
+    "rotten": "74%",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "History"
+    ],
+    "image": "https://placehold.co/300x450?text=Lost+Code"
+  },
+  {
+    "id": 67,
+    "title": "Silent Signal",
+    "year": "2009 - Current",
+    "type": "TV SERIES",
+    "rating": "89.0 / 100",
+    "rotten": "77%",
+    "genres": [
+      "Romance",
+      "Thriller",
+      "Action"
+    ],
+    "image": "https://placehold.co/300x450?text=Silent+Signal"
+  },
+  {
+    "id": 68,
+    "title": "Fallen Beacon",
+    "year": "1990",
+    "type": "TV SERIES",
+    "rating": "88.0 / 100",
+    "rotten": "83%",
+    "genres": [
+      "Fantasy",
+      "Biography"
+    ],
+    "image": "https://placehold.co/300x450?text=Fallen+Beacon"
+  },
+  {
+    "id": 69,
+    "title": "Dark Vault",
+    "year": "1992",
+    "type": "TV SERIES",
+    "rating": "92.0 / 100",
+    "rotten": "78%",
+    "genres": [
+      "Crime",
+      "Comedy"
+    ],
+    "image": "https://placehold.co/300x450?text=Dark+Vault"
+  },
+  {
+    "id": 70,
+    "title": "Rust Bridge",
+    "year": "2022 - Current",
+    "type": "TV SERIES",
+    "rating": "81.0 / 100",
+    "rotten": "77%",
+    "genres": [
+      "Adventure",
+      "Biography"
+    ],
+    "image": "https://placehold.co/300x450?text=Rust+Bridge"
+  },
+  {
+    "id": 71,
+    "title": "Iron Lake",
+    "year": "2002",
+    "type": "MOVIE",
+    "rating": "84.0 / 100",
+    "rotten": "92%",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "image": "https://placehold.co/300x450?text=Iron+Lake"
+  },
+  {
+    "id": 72,
+    "title": "Wild Mirage",
+    "year": "1986",
+    "type": "TV SERIES",
+    "rating": "78.0 / 100",
+    "rotten": "96%",
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Action"
+    ],
+    "image": "https://placehold.co/300x450?text=Wild+Mirage"
+  },
+  {
+    "id": 73,
+    "title": "Lost Trail",
+    "year": "2019",
+    "type": "MOVIE",
+    "rating": "83.0 / 100",
+    "rotten": "79%",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Action"
+    ],
+    "image": "https://placehold.co/300x450?text=Lost+Trail"
+  },
+  {
+    "id": 74,
+    "title": "Shaded River",
+    "year": "2016",
+    "type": "MOVIE",
+    "rating": "85.0 / 100",
+    "rotten": "85%",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "image": "https://placehold.co/300x450?text=Shaded+River"
+  },
+  {
+    "id": 75,
+    "title": "Crimson Trail",
+    "year": "2003",
+    "type": "TV SERIES",
+    "rating": "91.0 / 100",
+    "rotten": "87%",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "History"
+    ],
+    "image": "https://placehold.co/300x450?text=Crimson+Trail"
+  },
+  {
+    "id": 76,
+    "title": "Crimson Sky",
+    "year": "2019",
+    "type": "MOVIE",
+    "rating": "76.0 / 100",
+    "rotten": "97%",
+    "genres": [
+      "Mystery",
+      "Horror"
+    ],
+    "image": "https://placehold.co/300x450?text=Crimson+Sky"
+  },
+  {
+    "id": 77,
+    "title": "Rapid Drift",
+    "year": "1985",
+    "type": "TV SERIES",
+    "rating": "82.0 / 100",
+    "rotten": "94%",
+    "genres": [
+      "Thriller",
+      "Sci-Fi"
+    ],
+    "image": "https://placehold.co/300x450?text=Rapid+Drift"
+  },
+  {
+    "id": 78,
+    "title": "Shaded Valley",
+    "year": "2008",
+    "type": "MOVIE",
+    "rating": "89.0 / 100",
+    "rotten": "71%",
+    "genres": [
+      "Action",
+      "Biography"
+    ],
+    "image": "https://placehold.co/300x450?text=Shaded+Valley"
+  },
+  {
+    "id": 79,
+    "title": "Storm Echo",
+    "year": "2023 - Current",
+    "type": "TV SERIES",
+    "rating": "78.0 / 100",
+    "rotten": "96%",
+    "genres": [
+      "Action",
+      "History",
+      "Comedy"
+    ],
+    "image": "https://placehold.co/300x450?text=Storm+Echo"
+  },
+  {
+    "id": 80,
+    "title": "Crimson Flame",
+    "year": "1991 - Current",
+    "type": "TV SERIES",
+    "rating": "90.0 / 100",
+    "rotten": "76%",
+    "genres": [
+      "Mystery",
+      "Adventure"
+    ],
+    "image": "https://placehold.co/300x450?text=Crimson+Flame"
+  },
+  {
+    "id": 81,
+    "title": "Rapid Strike",
+    "year": "2005 - Current",
+    "type": "TV SERIES",
+    "rating": "77.0 / 100",
+    "rotten": "79%",
+    "genres": [
+      "Biography",
+      "History",
+      "Adventure"
+    ],
+    "image": "https://placehold.co/300x450?text=Rapid+Strike"
+  },
+  {
+    "id": 82,
+    "title": "Broken Path",
+    "year": "1983",
+    "type": "TV SERIES",
+    "rating": "74.0 / 100",
+    "rotten": "88%",
+    "genres": [
+      "Biography",
+      "Comedy"
+    ],
+    "image": "https://placehold.co/300x450?text=Broken+Path"
+  },
+  {
+    "id": 83,
+    "title": "Hollow Line",
+    "year": "1988",
+    "type": "TV SERIES",
+    "rating": "73.0 / 100",
+    "rotten": "81%",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "History"
+    ],
+    "image": "https://placehold.co/300x450?text=Hollow+Line"
+  },
+  {
+    "id": 84,
+    "title": "Frozen Chamber",
+    "year": "2024",
+    "type": "TV SERIES",
+    "rating": "75.0 / 100",
+    "rotten": "83%",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Frozen+Chamber"
+  },
+  {
+    "id": 85,
+    "title": "Scarlet Code",
+    "year": "2011",
+    "type": "TV SERIES",
+    "rating": "92.0 / 100",
+    "rotten": "78%",
+    "genres": [
+      "Biography",
+      "Romance"
+    ],
+    "image": "https://placehold.co/300x450?text=Scarlet+Code"
+  },
+  {
+    "id": 86,
+    "title": "Vivid Spire",
+    "year": "2012",
+    "type": "TV SERIES",
+    "rating": "80.0 / 100",
+    "rotten": "98%",
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ],
+    "image": "https://placehold.co/300x450?text=Vivid+Spire"
+  },
+  {
+    "id": 87,
+    "title": "Shadow Line",
+    "year": "2011",
+    "type": "TV SERIES",
+    "rating": "82.0 / 100",
+    "rotten": "75%",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Shadow+Line"
+  },
+  {
+    "id": 88,
+    "title": "Final Mirage",
+    "year": "2004",
+    "type": "TV SERIES",
+    "rating": "80.0 / 100",
+    "rotten": "87%",
+    "genres": [
+      "Fantasy",
+      "Biography"
+    ],
+    "image": "https://placehold.co/300x450?text=Final+Mirage"
+  },
+  {
+    "id": 89,
+    "title": "Silent Clock",
+    "year": "1994 - Current",
+    "type": "TV SERIES",
+    "rating": "79.0 / 100",
+    "rotten": "92%",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Romance"
+    ],
+    "image": "https://placehold.co/300x450?text=Silent+Clock"
+  },
+  {
+    "id": 90,
+    "title": "Brave Bridge",
+    "year": "2010",
+    "type": "MOVIE",
+    "rating": "94.0 / 100",
+    "rotten": "77%",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "image": "https://placehold.co/300x450?text=Brave+Bridge"
+  },
+  {
+    "id": 91,
+    "title": "Burning Path",
+    "year": "2005",
+    "type": "TV SERIES",
+    "rating": "82.0 / 100",
+    "rotten": "81%",
+    "genres": [
+      "Biography",
+      "Romance"
+    ],
+    "image": "https://placehold.co/300x450?text=Burning+Path"
+  },
+  {
+    "id": 92,
+    "title": "Rapid Valley",
+    "year": "2001",
+    "type": "MOVIE",
+    "rating": "89.0 / 100",
+    "rotten": "94%",
+    "genres": [
+      "Comedy",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "image": "https://placehold.co/300x450?text=Rapid+Valley"
+  },
+  {
+    "id": 93,
+    "title": "Rogue Summit",
+    "year": "1995",
+    "type": "TV SERIES",
+    "rating": "81.0 / 100",
+    "rotten": "73%",
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "History"
+    ],
+    "image": "https://placehold.co/300x450?text=Rogue+Summit"
+  },
+  {
+    "id": 94,
+    "title": "Ancient Island",
+    "year": "1996",
+    "type": "TV SERIES",
+    "rating": "76.0 / 100",
+    "rotten": "78%",
+    "genres": [
+      "Biography",
+      "Romance"
+    ],
+    "image": "https://placehold.co/300x450?text=Ancient+Island"
+  },
+  {
+    "id": 95,
+    "title": "Golden Voyage",
+    "year": "2017",
+    "type": "MOVIE",
+    "rating": "72.0 / 100",
+    "rotten": "88%",
+    "genres": [
+      "History",
+      "Thriller",
+      "Adventure"
+    ],
+    "image": "https://placehold.co/300x450?text=Golden+Voyage"
+  },
+  {
+    "id": 96,
+    "title": "Lunar Garden",
+    "year": "2012",
+    "type": "MOVIE",
+    "rating": "75.0 / 100",
+    "rotten": "96%",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "image": "https://placehold.co/300x450?text=Lunar+Garden"
+  },
+  {
+    "id": 97,
+    "title": "Last Sky",
+    "year": "2013 - Current",
+    "type": "TV SERIES",
+    "rating": "76.0 / 100",
+    "rotten": "95%",
+    "genres": [
+      "Mystery",
+      "Action",
+      "Drama"
+    ],
+    "image": "https://placehold.co/300x450?text=Last+Sky"
+  },
+  {
+    "id": 98,
+    "title": "Glowing Gate",
+    "year": "1987",
+    "type": "MOVIE",
+    "rating": "91.0 / 100",
+    "rotten": "95%",
+    "genres": [
+      "History",
+      "Horror",
+      "Fantasy"
+    ],
+    "image": "https://placehold.co/300x450?text=Glowing+Gate"
+  },
+  {
+    "id": 99,
+    "title": "Vivid Echo",
+    "year": "2015",
+    "type": "TV SERIES",
+    "rating": "81.0 / 100",
+    "rotten": "88%",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "image": "https://placehold.co/300x450?text=Vivid+Echo"
+  },
+  {
+    "id": 100,
+    "title": "Vivid Voyage",
+    "year": "2021",
+    "type": "MOVIE",
+    "rating": "80.0 / 100",
+    "rotten": "91%",
+    "genres": [
+      "Mystery",
+      "Comedy"
+    ],
+    "image": "https://placehold.co/300x450?text=Vivid+Voyage"
+  }
+]
